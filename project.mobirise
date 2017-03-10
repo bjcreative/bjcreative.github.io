@@ -155,16 +155,6 @@
                 "thumb": "@PROJECT_PATH@/assets/images/ll9-800x800-800x800.jpg",
                 "image": "@PROJECT_PATH@/assets/images/ll9-800x800.jpg",
                 "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/landscape-1475786440-lead-800x400.png",
-                "image": "@PROJECT_PATH@/assets/images/landscape-1475786440-lead.gif",
-                "caption": "Type caption here",
                 "active": true
               },
               {
@@ -315,6 +305,16 @@
                 "thumb": "@PROJECT_PATH@/assets/images/0482f346496949-2000x3000-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/0482f346496949-2000x3000.jpg",
                 "caption": "Retouch&nbsp;",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/landscape-1475786440-lead-800x400.png",
+                "image": "@PROJECT_PATH@/assets/images/landscape-1475786440-lead.gif",
+                "caption": "Type caption here",
                 "active": false
               }
             ],
