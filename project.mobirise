@@ -142,10 +142,10 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/tumblr-npui0ri5n81sjw060o1-1-800x1142-800x1142.png",
-                "image": "@PROJECT_PATH@/assets/images/tumblr-npui0ri5n81sjw060o1-1-800x1142.png",
+                "thumb": "@PROJECT_PATH@/assets/images/rs-600x400-160309123846-layering-skincare-am-layers-flattened-updated-800x533.png",
+                "image": "@PROJECT_PATH@/assets/images/rs-600x400-160309123846-layering-skincare-am-layers-flattened-updated.gif",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Design",
@@ -315,7 +315,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/0482f346496949-2000x3000-800x1200.jpg",
                 "image": "@PROJECT_PATH@/assets/images/0482f346496949-2000x3000.jpg",
                 "caption": "Retouch&nbsp;",
-                "active": true
+                "active": false
               }
             ],
             "spacing": "0",
