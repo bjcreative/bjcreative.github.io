@@ -145,7 +145,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/rs-600x400-160309123846-layering-skincare-am-layers-flattened-updated-800x533.png",
                 "image": "@PROJECT_PATH@/assets/images/rs-600x400-160309123846-layering-skincare-am-layers-flattened-updated.gif",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Design",
@@ -165,7 +165,7 @@
                 "thumb": "@PROJECT_PATH@/assets/images/landscape-1475786440-lead-800x400.png",
                 "image": "@PROJECT_PATH@/assets/images/landscape-1475786440-lead.gif",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Photography",
